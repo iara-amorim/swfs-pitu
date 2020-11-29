@@ -1,4 +1,4 @@
-# swfs-pitu
+# swfs-pitu  <img src="https://s3.us-east-2.amazonaws.com/www.swfs-pitu.tk/logo.png" alt="Logo"/>
 A simple micro-SaaS for url shortening.
 Project for the [swfs](https://lp.luiztools.com.br/swfs-cadastro/ "swfs") event by [@luiztools](https://twitter.com/luiztools "@luiztools") and [@danielcsrs](https://twitter.com/danielcsrs "@danielcsrs")
 
