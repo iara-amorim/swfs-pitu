@@ -2,7 +2,7 @@
 A simple micro-SaaS for url shortening.
 Project for the [swfs](https://lp.luiztools.com.br/swfs-cadastro/ "swfs") event by [@luiztools](https://twitter.com/luiztools "@luiztools") and [@danielcsrs](https://twitter.com/danielcsrs "@danielcsrs")
 
-Check out the finished project! :arrow_forward: [http://swfs-pitu.tk](http://swfs-pitu.tk "http://swfs-pitu.tk")
+Check out the finished project! :arrow_forward: [http://swfs-pitu.tk](http://www.swfs-pitu.tk "http://www.swfs-pitu.tk")
 
 ### Get Started :rocket:
 
